@@ -2,7 +2,19 @@
 uid: D-DOCSIS_deployment
 ---
 
-# EPM D-DOCSIS deployment
+# EPM D-DOCSIS Deployment
+
+## Package Deployment
+
+To deploy and upgrade the D-DOCSIS branch of the EPM Solution in an automated fashion:
+
+1. Make sure the **latest DataMiner feature release** version is installed.
+
+1. Download the latest EPM D-DOCSIS installation package and place it on the server.
+
+1. Run the instllation package.
+
+## Manual or First Time Deployment
 
 To deploy the D-DOCSIS branch of the EPM Solution:
 
